@@ -1,10 +1,10 @@
-Exp-03-WEB
-Name:DANIEL.C
-Reference no:23008937
-AIM
+# Exp-03-WEB
+# Name:DANIEL.C
+# Reference no:23008937
+# AIM
 Create a Django website with five users using function-based views. Two users are to be staff users (including admin) and the other three users are non-staff users.
 
-Design Procedure
+# Design Procedure
 Step 1: To create a new project in django documents.
 
 Step 2: Change file path with new project folder.
@@ -23,7 +23,7 @@ Step 8: Give command-"python manage.py runserver 8000" to sign in into django se
 
 Step 9: Enter given credentials to sign in into django server.
 
-Output:
+#Code:
 ```
 <html>
     <head>
